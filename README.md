@@ -69,7 +69,6 @@ This project analyzes customer churn behavior using Python, SQL, Excel, and Tabl
 ## 📁 Files Included
 - `churn_analysis.ipynb` → Python + SQL analysis
 - `final_churn_data.csv` → Cleaned dataset
-- `queries.sql` → SQL queries
 - `dashboard.png` → Tableau dashboard
 
 ---
